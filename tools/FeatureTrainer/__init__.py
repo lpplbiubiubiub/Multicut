@@ -1,0 +1,3 @@
+from BasicTrainer import BaseTrainer
+from LogisticTrainer import LogisticTrainer
+from NNTrainer import NNTrainer
